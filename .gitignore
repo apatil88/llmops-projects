@@ -1,4 +1,5 @@
 env
 .env
 document_portal.egg-info
-notebook
+experiments.ipynb
+notebook/__pycache__
